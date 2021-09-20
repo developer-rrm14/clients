@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Tom Brady', '320.524.474-14', 150000.00, TIMESTAMP WITH TIME ZONE '1979-07-14T10:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Aaron Rodgers', '345.124.963-12', 100000.00, TIMESTAMP WITH TIME ZONE '1980-05-26T10:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Patrick Mahomes', '333.125.458-23', 200000.00, TIMESTAMP WITH TIME ZONE '2000-07-01T10:00:00Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Philipe Rivers', '423.158.021-00', 50000.00, TIMESTAMP WITH TIME ZONE '1990-07-02T10:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Russel Wilson', '632.257.463-09', 100000.00, TIMESTAMP WITH TIME ZONE '1994-07-03T10:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jimmy Garoppolo', '328.111.059-88', 75000.00, TIMESTAMP WITH TIME ZONE '1995-07-04T10:00:00Z',4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Lamar Jackson', '320.978.645-32', 150000.00, TIMESTAMP WITH TIME ZONE '2000-07-14T10:00:00Z',5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ben Roethlisberger', '321.654.987-33', 80000.00, TIMESTAMP WITH TIME ZONE '1980-05-14T10:00:00Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Drew Brees', '789.456.123-28', 80000.00, TIMESTAMP WITH TIME ZONE '1979-07-25T10:00:00Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Peyton Manning', '100.230.300-85', 140000.00, TIMESTAMP WITH TIME ZONE '1979-07-13T10:00:00Z',2);
